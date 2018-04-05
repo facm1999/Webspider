@@ -1,0 +1,8 @@
+音乐url有三个数据：1，m4a前的一个字符串（c加一串） 2，vkey 3，guid（好像固定）
+1，存在于https://c.y.qq.com/soso/fcgi-bin/client_search_cp?ct=24&qqmusic_ver=1298&new_json=1&remoteplace=txt.yqq.song&searchid=68198523013428703&t=0&aggr=1&cr=1&catZhida=1&lossless=0&flag_qc=0&p=1&n=20&w=%E7%97%85%E5%8F%98&g_tk=5381&jsonpCallback=MusicJsonCallback030546608724750346&loginUin=0&hostUin=0&format=jsonp&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq&needNewCode=0
+这个url中，有效的数据为 （https://c.y.qq.com/soso/fcgi-bin/client_search_cp?ct=24&w=（歌名）
+可以得到歌名，作者，及m4a前的一串
+2，vkey（https://c.y.qq.com/base/fcgi-bin/fcg_music_express_mobile3.fcg?g_tk=5381&jsonpCallback=MusicJsonCallback5649016681055476&loginUin=0&hostUin=0&format=json&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq&needNewCode=0&cid=205361747&callback=MusicJsonCallback5649016681055476&uin=0&songmid=002lUqDY0GmcWj&filename=C400000TOO4v0AF3Bs.m4a&guid=424261942）
+https://c.y.qq.com/base/fcgi-bin/fcg_music_express_mobile3.fcg?g_tk=5381&jsonpCallback=MusicJsonCallback5649016681055476&loginUin=0&hostUin=0&format=json&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq&needNewCode=0&cid=205361747&callback=MusicJsonCallback5649016681055476&uin=0&songmid=002lUqDY0GmcWj&filename=C400000TOO4v0AF3Bs.m4a&guid=424261942
+
+https://c.y.qq.com/base/fcgi-bin/fcg_music_express_mobile3.fcg?g_tk=5381&jsonpCallback=MusicJsonCallback3584195365044025&loginUin=0&hostUin=0&format=json&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq&needNewCode=0&cid=205361747&callback=MusicJsonCallback3584195365044025&uin=0&songmid=003fxYr41uJVRG&filename=C400003fxYr41uJVRG.m4a&guid=424261942
