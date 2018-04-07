@@ -8,13 +8,11 @@ global headers
 headers = {
             'authority': 'c.y.qq.com',
             'method': 'GET',
-            'path': '/soso/fcgi-bin/client_search_cp?ct=24&qqmusic_ver=1298&new_json=1&remoteplace=txt.yqq.song&searchid=61390050690667846&t=0&aggr=1&cr=1&catZhida=1&lossless=0&flag_qc=0&p=1&n=20&w=%E6%88%91%E4%BB%AC%E4%B8%8D%E4%B8%80%E6%A0%B7&g_tk=5381&jsonpCallback=MusicJsonCallback023547204978190184&loginUin=0&hostUin=0&format=jsonp&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq&needNewCode=0',
             'scheme': 'https',
             'accept': '*/*',
             'accept-encoding': 'gzip, deflate, br',
             'accept-language': 'zh-CN,zh;q=0.9',
-            'cache-control': 'no-cache',
-            'cookie': 'pgv_pvid=424261942; yq_index=0; ts_uid=4926174980; pgv_pvi=9929293824; yqq_stat=0; pgv_si=s1387702272; pgv_info=ssid=s6110750850; ts_last=y.qq.com/portal/search.html',
+            'cache-control': 'no-cache',            
             'pragma': 'no-cache',
             'referer': 'https://y.qq.com/portal/search.html',
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'
